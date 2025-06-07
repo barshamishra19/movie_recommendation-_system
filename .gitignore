@@ -1,0 +1,6 @@
+# Virtual environments
+.venv
+.env
+# Streamlit secrets (keep your API keys out)
+.streamlit/secrets.toml
+similarity.pkl
